@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'e0bbe984-879f-4dcb-b656-f78a701f33be'
 
   # Function app name
-  functionAppName: 'beeroclock'
+  functionAppName: 'whentobeer'
 
   # Agent VM image name
   vmImageName: 'vs2017-win2016'
